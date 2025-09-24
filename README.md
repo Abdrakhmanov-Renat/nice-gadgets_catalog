@@ -7,10 +7,10 @@ Experiance the live website:
 # Technologies Used
 
 ## Core
-**-** **REACT** (v18.3.1) - UI framework
-**-** **TYPE SCRIPT** (v5.2.2) - Type safety
-**-** **REDUX** (v5.2.2) - Variables saving
-**-** **SCSS** (v6.4.1) - Styiling
+- **REACT** (v18.3.1) - UI framework
+- **TYPE SCRIPT** (v5.2.2) - Type safety
+- **REDUX** (v5.2.2) - Variables saving
+- **SCSS** (v6.4.1) - Styiling
 
 # Getting Started
 
